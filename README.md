@@ -3,8 +3,8 @@
 Learning how to code better.
 ### 📬  Get in touch
 
- - [Instagram](instagram.com/aman_1199).
- - [LinkedIn](https://www.linkedin.com/in/pranay-prajapati-ba510b185/)
+ - [Instagram]().
+ - [LinkedIn])
 
 ## &#x1f4c8; My GitHub Stats
 
